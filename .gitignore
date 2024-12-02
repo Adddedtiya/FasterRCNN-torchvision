@@ -11,3 +11,6 @@
 /*.jpg
 weight_outputs_best/best_model.pth
 test_dect.json
+/example_*
+/runs
+__pycache__
